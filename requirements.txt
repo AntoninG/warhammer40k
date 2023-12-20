@@ -1,0 +1,11 @@
+cement==3.0.8
+cement[jinja2]
+cement[yaml]
+cement[colorlog]
+requests
+pylint
+tinydb
+warhammer-stats
+pydantic
+slugify
+python-slugify
